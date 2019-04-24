@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">AppScrip</string>
+
+
+    <string name="save_data_to_room_database">Save Data To Room Database</string>
+    <string name="view_contacts_to_recyclerview">View Contacts to RecyclerView</string>
+    <string name="title_activity_maps">title_activity_maps</string>
+    <string name="please_enter_your_name">Please enter your name..</string>
+    <string name="what_is_your_name">What is your Name?</string>
+    <string name="who_is_the_best_cricketer_in_the_world"><![CDATA[Who is the best cricketer in the world?]]></string>
+    <string name="sachin_tendulkar">Sachin Tendulkar</string>
+    <string name="virat_kohli">Virat Kohli</string>
+    <string name="adam_gilchirst">Adam Gilchirst</string>
+    <string name="jacques_kallis">Jacques Kallis</string>
+    <string name="what_are_the_colors_in_the_indian_national_flag">What are the colors in the Indian national flag?</string>
+    <!--<string name="next">NEXT</string>-->
+    <string name="next">NEXT</string>
+</resources>

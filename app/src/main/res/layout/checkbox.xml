@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:gravity="center"
+    android:orientation="vertical">
+
+    <RadioGroup
+        android:id="@+id/radiogroup"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="2sp"
+        android:gravity="center_vertical">
+
+        <RadioButton
+            android:id="@+id/sachin"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:buttonTint="@android:color/black"
+            android:text="@string/sachin_tendulkar"
+            android:textColor="@android:color/black" />
+
+        <RadioButton
+            android:id="@+id/virat"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:buttonTint="@android:color/black"
+            android:text="@string/virat_kohli"
+            android:textColor="@android:color/black" />
+
+        <RadioButton
+            android:id="@+id/adam"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:buttonTint="@android:color/black"
+            android:text="@string/adam_gilchirst"
+            android:textColor="@android:color/black" />
+
+        <RadioButton
+            android:id="@+id/kallis"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:buttonTint="@android:color/black"
+            android:text="@string/jacques_kallis"
+            android:textColor="@android:color/black" />
+
+    </RadioGroup>
+
+</LinearLayout>
